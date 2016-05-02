@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=p1\ p2
+comment0.target=Line(Point,\ Point)
+comment1.params=
+comment1.target=Line()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=seg
+comment3.target=double\ distance(Line)
+comment4.params=seg
+comment4.target=Point\ midPoint(Line)
+numComments=5

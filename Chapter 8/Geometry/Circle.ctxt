@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=cent\ Bord
+comment0.target=Circle(Point,\ Point)
+comment1.params=
+comment1.target=double\ getRadius()
+comment2.params=
+comment2.target=double\ getArea()
+comment3.params=
+comment3.target=double\ getPerimeter()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=other
+comment5.target=int\ compareTo(Geometric)
+numComments=6

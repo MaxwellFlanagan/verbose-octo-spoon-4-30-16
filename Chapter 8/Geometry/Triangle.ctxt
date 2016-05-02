@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=x\ y\ z
+comment0.target=Triangle(Point,\ Point,\ Point)
+comment1.params=
+comment1.target=double\ getPerimeter()
+comment2.params=
+comment2.target=double\ getArea()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=other
+comment4.target=int\ compareTo(Geometric)
+numComments=5
